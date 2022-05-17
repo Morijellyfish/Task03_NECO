@@ -1,0 +1,16 @@
+C:\Users\森 優貴\Documents\GitHub\Task03_NECO\Task03_NECO\bin\Debug\net5.0\Task03_NECO.exe
+C:\Users\森 優貴\Documents\GitHub\Task03_NECO\Task03_NECO\bin\Debug\net5.0\Task03_NECO.deps.json
+C:\Users\森 優貴\Documents\GitHub\Task03_NECO\Task03_NECO\bin\Debug\net5.0\Task03_NECO.runtimeconfig.json
+C:\Users\森 優貴\Documents\GitHub\Task03_NECO\Task03_NECO\bin\Debug\net5.0\Task03_NECO.runtimeconfig.dev.json
+C:\Users\森 優貴\Documents\GitHub\Task03_NECO\Task03_NECO\bin\Debug\net5.0\Task03_NECO.dll
+C:\Users\森 優貴\Documents\GitHub\Task03_NECO\Task03_NECO\bin\Debug\net5.0\ref\Task03_NECO.dll
+C:\Users\森 優貴\Documents\GitHub\Task03_NECO\Task03_NECO\bin\Debug\net5.0\Task03_NECO.pdb
+C:\Users\森 優貴\Documents\GitHub\Task03_NECO\Task03_NECO\obj\Debug\net5.0\Task03_NECO.csproj.AssemblyReference.cache
+C:\Users\森 優貴\Documents\GitHub\Task03_NECO\Task03_NECO\obj\Debug\net5.0\Task03_NECO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\森 優貴\Documents\GitHub\Task03_NECO\Task03_NECO\obj\Debug\net5.0\Task03_NECO.AssemblyInfoInputs.cache
+C:\Users\森 優貴\Documents\GitHub\Task03_NECO\Task03_NECO\obj\Debug\net5.0\Task03_NECO.AssemblyInfo.cs
+C:\Users\森 優貴\Documents\GitHub\Task03_NECO\Task03_NECO\obj\Debug\net5.0\Task03_NECO.csproj.CoreCompileInputs.cache
+C:\Users\森 優貴\Documents\GitHub\Task03_NECO\Task03_NECO\obj\Debug\net5.0\Task03_NECO.dll
+C:\Users\森 優貴\Documents\GitHub\Task03_NECO\Task03_NECO\obj\Debug\net5.0\ref\Task03_NECO.dll
+C:\Users\森 優貴\Documents\GitHub\Task03_NECO\Task03_NECO\obj\Debug\net5.0\Task03_NECO.pdb
+C:\Users\森 優貴\Documents\GitHub\Task03_NECO\Task03_NECO\obj\Debug\net5.0\Task03_NECO.genruntimeconfig.cache

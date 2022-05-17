@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Task03_NECO/1.0.0": {
+        "runtime": {
+          "Task03_NECO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task03_NECO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
